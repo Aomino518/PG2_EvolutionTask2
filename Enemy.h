@@ -14,5 +14,6 @@ public:
 	Vector2 GetterPos();
 	float GetterRadius();
 	int GetterIsActive();
+
 };
 
